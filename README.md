@@ -1,6 +1,6 @@
-#基于Clip多模态模型的数字分类器
+#基于Clip多模态模型的数字分类器1️⃣2️⃣3️⃣4️⃣5️⃣
 
-## 如何使用这个代码
+## 如何使用这个代码😄
 
 首先打开src文件，里面的clip为模型结构，ViT模型为VisionTransformer（参考论文：AN IMAGE IS WORTH 16X16 WORDS:
 TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE），text_encoder为文本编码器，两者通过对比学习在实现多模态感知（参考论文：Learning Transferable Visual Models From Natural Language Supervision）
